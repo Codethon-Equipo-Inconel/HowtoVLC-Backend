@@ -2,9 +2,9 @@
 
 # Versiones
 
-Java 17
-⁠Springboot 3.2.4
-⁠Postgresql  16.*
+Java 17 <br>
+⁠Springboot 3.2.4 <br>
+⁠Postgresql  16.* <br>
 
 # Read Me First
 The following was discovered as part of building this project:
